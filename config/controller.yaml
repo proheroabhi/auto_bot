@@ -18,7 +18,7 @@ diff_cont:
     right_wheel_names: ["right_wheel_joint"]
     wheel_separation: 0.35
     wheel_radius: 0.05
-    use_stamped_vel: false   # Change if using stamped cmd_vel topic
+    # use_stamped_vel: false   # Change if using stamped cmd_vel topic
 
 # joint_broad:
 #   ros__parameters:
